@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafi Akmal Maulana
-- 👀 I’m interested i Fronr-End Web Development
+- 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning Tailwindcss and Javascript
 
 
